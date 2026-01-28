@@ -1,4 +1,4 @@
-## *Gráfico de Barra* 📊
+## *Gráfico de Barra no Jupyter Notebook* 📊
 
 # 🛠️ Como fazer?
 Primeiro, baixe o Anaconda e depois acesse o jupyter notebook. Após isso, importe o matplotlib e o numpy (escrita correta da importação no código disponibilizado) para começar!
