@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 aplicativos = ['Youtube', 'LinkedIn', 'WhatsApp', 'Safari']
+
 horas_usadas = [29, 3, 5, 13]
 
 cores = ['red', '#0077B5', '#25D366', 'royalblue']
