@@ -15,4 +15,5 @@ Depois utilize o código "plt.gca().spines[['top', 'right']].set_visible(False)"
 
 # Como deve ficar 📸
 
-<img width="540" height="352" alt="image" src="https://github.com/user-attachments/assets/898b6b01-e8ee-4879-8a5d-3e028f947972" />
+<img width="566" height="366" alt="image" src="https://github.com/user-attachments/assets/ee6da2d9-675c-4435-b2c0-fdf6b9e3bc69" />
+
