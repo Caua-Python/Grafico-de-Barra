@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-aplicativos = ['Youtube', 'LinkedIn', 'WhatsApp', 'Safari']
+aplicativos = ['Youtube', 'Safari', 'WhatsApp', 'LinkedIn']
 
-horas_usadas = [29, 3, 5, 13]
+horas_usadas = [29, 13, 5, 3]       
 
-cores = ['red', '#0077B5', '#25D366', 'royalblue']
+cores = ['red', 'royalblue',  '#25D366', '#0077B5']
 
 plt.bar(aplicativos, horas_usadas,  color=cores)
 
