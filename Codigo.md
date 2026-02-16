@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+
 import numpy as np
 
 aplicativos = ['Youtube', 'Safari', 'WhatsApp', 'LinkedIn']
